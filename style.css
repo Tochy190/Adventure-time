@@ -1,0 +1,35 @@
+body{ 
+    background: lightcyan;
+    color: black;
+    margin: 0px;
+}
+
+section{
+border-bottom: solid 2px rgb antiquewhite;
+padding: 20px;
+font-size: 28;
+color: antiquewhite;
+
+}
+
+section{ 
+background: rgb rosybrown;
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
+}
+ 
+div {
+scroll-margin-left: 20px
+;
+
+
+}
+
+
+
+
+
+
